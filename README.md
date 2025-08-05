@@ -1,3 +1,4 @@
-# AutoPay+ Project - By: David Kachroo
+# AutoPay+
+## By: David Kachroo
 
 A Smart Payment & Credit Scheduling Optimizer
