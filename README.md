@@ -1,4 +1,4 @@
 # AutoPay+
-## Developer: David Kachroo (CFM @ UWaterloo)
+## By: David Kachroo (CFM @ UWaterloo)
 
 A Smart Payment and Credit Scheduling Optimizer
